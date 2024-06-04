@@ -22,3 +22,5 @@
 <li><p>The <b>Schematic</b> of the circuit in <b>Simulation</b> file.</p></li>
 <li><p>The <b>Source Code</b> in <b>arduino_code</b> file.</p></li>
 </ul>
+
+<h6>Practical experiment on project from this <a href="https://www.youtube.com/shorts/Ee0JcCGLVfA" target="_blank">Link</a></h6>
